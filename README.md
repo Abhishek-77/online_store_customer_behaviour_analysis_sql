@@ -76,6 +76,8 @@ This project uses multiple CSV files stored in the /data/ folder.
 
 <h2><a class="anchor" id="suggestion"></a>🧭 Suggestions & Recommendations</h2>
 
+[👉 🛢️ View Queries here ](https://github.com/Abhishek-77/online_store_customer_behaviour_analysis_sql/blob/main/jensons_sql/jensons_analysis.sql)
+
 <br><br>
 
 
